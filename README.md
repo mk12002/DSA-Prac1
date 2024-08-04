@@ -1,4 +1,4 @@
-# DSA-Prac1
+# DSA Practice
 
 DSA questions and solutions to be uploaded daily.
 Along with time complexity.
